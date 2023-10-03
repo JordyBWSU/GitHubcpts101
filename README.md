@@ -1,3 +1,3 @@
 # GitHubcpts101
-jordy bautista
-jordy.bautista@wsu.edu
+# jordy bautista
+# jordy.bautista@wsu.edu
